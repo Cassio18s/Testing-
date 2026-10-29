@@ -19,3 +19,4 @@ Public Function DodajLiczby(ByVal a As Double, ByVal b As Double) As Double
     ' Prosta funkcja użytkownika (UDF) do testów jednostkowych
     DodajLiczby = a + b
 End Function
+public
